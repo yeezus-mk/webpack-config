@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "stylelint-config-primer",
+    "stylelint-config-rational-order"
+  ],
+  "rules": {
+    "indentation": [2]
+  },
+  "ignoreFiles": ["public/*"]
+}
